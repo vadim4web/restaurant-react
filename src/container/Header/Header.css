@@ -3,10 +3,12 @@
 }
 
 .app__header-h1 {
-     font-family: var(--font-base);
-     color: var(--color-golden);
-     letter-spacing: 0.04em;
-     text-transform: uppercase;
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    text-wrap: wrap;
+    word-break: break-all;
     line-height: 117px;
     font-size: 90px;
 }

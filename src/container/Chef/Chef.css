@@ -12,4 +12,13 @@
 }
 
 
+.app__chef-sign img {
+    object-fit: contain;
+    max-width: calc(100vw - 4rem) !important;
+    object-fit: contain !important;
+}
+
+
+
+
 
